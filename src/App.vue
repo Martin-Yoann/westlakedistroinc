@@ -18,7 +18,7 @@
         <!-- <router-link to="/about">持续更新肿</router-link> -->
       </div>
       <div class="title">
-        <h1>CareLoop</h1>
+        <h1>ProAssist Hub</h1>
       </div>
     </nav>
     <router-view />
